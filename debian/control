@@ -1,0 +1,12 @@
+Source: ros-galactic-turtlebot4-simulator
+Section: misc
+Priority: optional
+Maintainer: rkreinin <rkreinin@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-galactic-ament-cmake, ros-galactic-turtlebot4-ignition-bringup, ros-galactic-turtlebot4-ignition-gui-plugins, ros-galactic-turtlebot4-ignition-toolbox, ros-galactic-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-galactic-turtlebot4-simulator
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-galactic-turtlebot4-ignition-bringup, ros-galactic-turtlebot4-ignition-gui-plugins, ros-galactic-turtlebot4-ignition-toolbox, ros-galactic-ros-workspace
+Description: TODO: Package description
