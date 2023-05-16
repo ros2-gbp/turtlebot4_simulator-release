@@ -2,6 +2,11 @@
 Changelog for package turtlebot4_ignition_toolbox
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.0 (2023-05-16)
+------------------
+* Multiple robot support
+* Contributors: Roni Kreinin, roni-kreinin
+
 0.1.1 (2022-05-09)
 ------------------
 
