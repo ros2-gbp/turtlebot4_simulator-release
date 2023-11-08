@@ -1,3 +1,30 @@
+## turtlebot4_simulator (humble) - 1.0.1-1
+
+The packages in the `turtlebot4_simulator` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble turtlebot4_simulator` on `Wed, 08 Nov 2023 22:01:57 -0000`
+
+These packages were released:
+- `turtlebot4_ignition_bringup`
+- `turtlebot4_ignition_gui_plugins`
+- `turtlebot4_ignition_toolbox`
+- `turtlebot4_simulator`
+
+Version of package(s) in repository `turtlebot4_simulator`:
+
+- upstream repository: https://github.com/turtlebot/turtlebot4_simulator.git
+- release repository: https://github.com/ros2-gbp/turtlebot4_simulator-release.git
+- rosdistro version: `1.0.0-1`
+- old version: `1.0.0-1`
+- new version: `1.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## turtlebot4_simulator (humble) - 1.0.0-1
 
 The packages in the `turtlebot4_simulator` repository were released into the `humble` distro by running `/usr/bin/bloom-release --rosdistro humble --track humble turtlebot4_simulator --edit` on `Tue, 16 May 2023 19:11:44 -0000`
