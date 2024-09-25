@@ -1,3 +1,30 @@
+## turtlebot4_simulator (jazzy) - 2.0.1-1
+
+The packages in the `turtlebot4_simulator` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release -t jazzy -r jazzy turtlebot4_simulator` on `Wed, 25 Sep 2024 18:00:43 -0000`
+
+These packages were released:
+- `turtlebot4_gz_bringup`
+- `turtlebot4_gz_gui_plugins`
+- `turtlebot4_gz_toolbox`
+- `turtlebot4_simulator`
+
+Version of package(s) in repository `turtlebot4_simulator`:
+
+- upstream repository: https://github.com/turtlebot/turtlebot4_simulator.git
+- release repository: https://github.com/ros2-gbp/turtlebot4_simulator-release.git
+- rosdistro version: `2.0.0-1`
+- old version: `2.0.0-1`
+- new version: `2.0.1-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `0.9.1`
+- vcstools version: `0.1.42`
+
+
 ## turtlebot4_simulator (jazzy) - 2.0.0-1
 
 The packages in the `turtlebot4_simulator` repository were released into the `jazzy` distro by running `/usr/bin/bloom-release -t jazzy -r jazzy turtlebot4_simulator` on `Wed, 04 Sep 2024 15:43:38 -0000`
